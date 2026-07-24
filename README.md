@@ -3,9 +3,9 @@
 
 Email Me 👉 ✉️ **rupesh404@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Javascript 
-- 🌱 **I’m currently learning:** Game Development
-- 👯 **I’m looking to collaborate on:** JS-Game-Development
+- 🔭 **I’m currently working on:** BACKEND 
+- 🌱 **I’m currently learning:** FULLSTACK
+- 👯 **I’m looking to collaborate on:** FULLSTACK DEVELOPMENT
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
   
