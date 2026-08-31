@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **rupesh404@gmail.com** For Collaboration/Project or Anythi
 - 🔭 **I’m currently working on:** BACKEND 
 - 🌱 **I’m currently learning:** FULLSTACK
 - 👯 **I’m looking to collaborate on:** FULLSTACK DEVELOPMENT
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
 
   
 ## 🌐 Socials:
